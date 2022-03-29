@@ -3,6 +3,7 @@
 }
 .back{
     width: 100%;
+    height: 662px;
     position: relative;
 }
 .forposition{
@@ -48,4 +49,32 @@ a{
     color: white;
     font-family: Poppins;
     font-size: 14px;
+}
+.paragraph-divheader{
+    position: absolute;
+    top: 188px;
+    left: 139px;
+}
+h1{
+    font-size: 62px;
+    font-family: Poppins;
+    width: 496px;
+    height: 112px;
+    color: white;
+}
+.firsttext{
+    font-size: 14px;
+    font-family: Poppins;
+    width: 352px;
+    height: 64px;
+    color: white;
+    margin-top: 100px;
+}
+.sticky{
+    position: sticky;
+    z-index: 10;
+    color: white;
+    margin-top: 135px;
+    padding-bottom: 64px;
+    font-size: 20px;
 }
