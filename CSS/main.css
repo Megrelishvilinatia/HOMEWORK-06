@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+.back{
+    width: 100%;
+    position: relative;
+}
+.forposition{
+   position: absolute;
+   top: 0;
+   left: 0;
+}
+.navbar-li{
+    display: inline-block;
+    margin-top: 24px;
+    /* margin-left: 47px; */
+}
+.first{
+    margin-left: 47px;
+}
+.therest{
+    display: inline-block;
+    margin-left: 400px;
+}
+.third,.fourth,.fifth,.sixth,.seventh{
+    padding-left: 47px;    
+    font-size: 12px;
+    font-family: Poppins;
+    display: inline-block;
+}  
+/* .third::after{
+     content: "&#62";
+    width: 3px;
+    height: 2px;
+    color: black;
+    margin: 0 auto;
+} */
+.entitycode{
+    /* -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg); */
+    color: white;
+    width: 7px;
+    height: 4px;
+}
+a{
+    color: white;
+    font-family: Poppins;
+    font-size: 14px;
+}
