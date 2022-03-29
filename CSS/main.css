@@ -77,4 +77,28 @@ h1{
     margin-top: 135px;
     padding-bottom: 64px;
     font-size: 20px;
+    font-family: Poppins;
+}
+.buttondiv{
+    position: absolute;
+    right: 120px;
+    top: 529px;
+    display: flex;    
+}
+.numerouno,.numerodos{
+    display: inline-block;
+    height: 51px;
+    width: 51px;
+    border: none;
+    padding: 0;
+
+}
+.butun{
+    font-size: 20px;
+}
+.numerodos{
+    background-color: #5863F8;
+}
+.numerouno{
+    background-color: white;
 }
