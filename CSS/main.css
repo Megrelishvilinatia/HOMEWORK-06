@@ -29,13 +29,6 @@
     font-family: Poppins;
     display: inline-block;
 }  
-/* .third::after{
-     content: "&#62";
-    width: 3px;
-    height: 2px;
-    color: black;
-    margin: 0 auto;
-} */
 .entitycode{
     /* -webkit-transform: rotate(-45deg);
     -moz-transform: rotate(-45deg);
@@ -153,4 +146,41 @@ h2{
     font-size: 15px;
     color: white;
     margin-left: 20px;
+}
+.footer-div{
+    font-family: Poppins;
+    background-color: #121212;
+    height: 318px;
+    width: 100%;
+    color: white;
+    margin-top: 119px;
+    /* margin-top: 72px;
+    margin-left: 139px; */
+    border-top: 72px;
+    padding-left: 139px;
+    font-family: Poppins;
+}
+h3{
+    font-size: 24px;
+    padding-top: 72px;
+    padding-bottom: 22px;
+}
+.footertext{
+    font-size: 14px;
+    width: 828px;
+    height: 29px;
+    padding-bottom: 91px;
+}
+.icons{
+    padding-bottom: 11px;
+}
+.images{
+    margin-right: 21px;
+}
+.lasttext{
+    font-size: 14px;
+}
+.Marian{
+    color: #5863F8;
+    text-decoration: underline;
 }
